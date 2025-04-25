@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @schr2001smh
+# 👋 Hi, I’m Dvir dayan
 
 I'm a Computer Science student at Ben-Gurion University. Before that, I began my academic journey at the Open University while serving in the military. I'm passionate about software development and love building things—especially video games in my spare time.
 
